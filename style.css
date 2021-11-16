@@ -1,0 +1,102 @@
+.o {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.c {
+    width: 350px;
+    position: absolute;
+    margin-top: -150px;
+}
+.d {
+    width: 450px;
+    height: 300px;
+    border-radius: 15px; 
+    background: rgb(167,124,252);
+    background: linear-gradient(0deg, rgba(167,124,252,1) 11%, rgba(90,82,246,1) 84%);
+}
+.t1 {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: right;
+    margin-right: 10px;
+}
+.h1 {
+    font-size: 25px;
+}
+.p {
+    margin-left: 75px;
+    font-size: 18px;
+}
+.d1 {
+    width: 450px;
+    height: 300px;
+    border-radius: 15px; 
+    background: rgb(221,63,63);
+background: linear-gradient(0deg, rgba(221,63,63,1) 17%, rgba(203,0,0,1) 100%); 
+}
+.c1 {
+    width: 300px;
+    position: absolute;
+    margin-top: -150px;
+}
+.d2 {
+    width: 450px;
+    height: 300px;
+    border-radius: 15px; 
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(57,21,116,1) 45%, rgba(80,0,209,1) 97%);
+}
+.c2 {
+    width: 250px;
+    position: absolute;
+    margin-top: -150px;
+}
+.c3 {
+    width: 300px;
+    position: absolute;
+    margin-top: -25px;
+}
+.d3 {
+    width: 450px;
+    height: 300px;
+    border-radius: 15px;
+    background: rgb(25,0,0);
+    background: linear-gradient(0deg, rgba(25,0,0,1) 17%, rgba(186,0,0,1) 100%);
+}
+.os {
+    width: 1400px;
+    height: 630px;
+    margin-top: 100px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.d20 {
+    width: 450px;
+    height: 300px;
+    border-radius: 15px;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 11%, rgba(3,113,108,1) 99%);
+}
+.d21 {
+    width: 450px;
+    height: 300px;
+    border-radius: 15px;
+    background: rgb(244,9,9);
+background: linear-gradient(0deg, rgba(244,9,9,1) 13%, rgba(0,0,0,1) 68%);
+}
+.c22 {
+    width: 260px;
+    position: absolute;
+    margin-top: -135px;
+}
+.c21 {
+    width: 230px;
+    position: absolute;
+    margin-top: -120px;
+}
